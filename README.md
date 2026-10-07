@@ -328,3 +328,11 @@ RTL/technology mapping, chip planning, routing, and placement tools.
 
 The project therefore provides both functional verification evidence and
 FPGA implementation evidence for the custom SIMT GPU architecture.
+
+## Author
+
+Darshan N S
+
+Bachelor of Engineering (B.E.) – Electrical and Electronics Engineering (EEE)
+
+Dayananda Sagar Academy of Technology and Management (DSATM), Bengaluru
